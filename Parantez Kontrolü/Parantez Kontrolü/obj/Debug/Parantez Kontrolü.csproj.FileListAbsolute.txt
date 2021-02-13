@@ -1,0 +1,7 @@
+C:\Users\gumus\source\repos\Parantez Kontrolü\Parantez Kontrolü\bin\Debug\Parantez Kontrolü.exe.config
+C:\Users\gumus\source\repos\Parantez Kontrolü\Parantez Kontrolü\bin\Debug\Parantez Kontrolü.exe
+C:\Users\gumus\source\repos\Parantez Kontrolü\Parantez Kontrolü\bin\Debug\Parantez Kontrolü.pdb
+C:\Users\gumus\source\repos\Parantez Kontrolü\Parantez Kontrolü\obj\Debug\Parantez Kontrolü.csprojAssemblyReference.cache
+C:\Users\gumus\source\repos\Parantez Kontrolü\Parantez Kontrolü\obj\Debug\Parantez Kontrolü.csproj.CoreCompileInputs.cache
+C:\Users\gumus\source\repos\Parantez Kontrolü\Parantez Kontrolü\obj\Debug\Parantez Kontrolü.exe
+C:\Users\gumus\source\repos\Parantez Kontrolü\Parantez Kontrolü\obj\Debug\Parantez Kontrolü.pdb
